@@ -1,0 +1,4 @@
+#Example configuration
+#Range: 1 ~ 100
+exampleSetting = 42
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.example.svet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.example.svet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.example.svet.test.iml" filepath="$PROJECT_DIR$/.idea/modules/net.example.svet.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/svet-master.svet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/svet-master.svet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/svet-master.svet.test.iml" filepath="$PROJECT_DIR$/.idea/modules/svet-master.svet.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/svet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/svet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/svet.test.iml" filepath="$PROJECT_DIR$/.idea/modules/svet.test.iml" />
+    </modules>
+  </component>
+</project>
